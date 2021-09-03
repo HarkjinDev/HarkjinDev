@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   https://github.com/HarkjinDev/Security/tree/main/Write-up/RDP
   
 - Suricata NIDS Implementation (NIDS 구축)   
-  Suricata IDS를 활용한 DOS 및 Web 공격 Snort 탐지 연구   
+  Suricata NIDS를 활용한 DOS 및 Web 공격 Snort 탐지 연구   
   https://github.com/HarkjinDev/Security/tree/main/Suricata
   
 - ModSecurity WAF Implementation (WAF 구축)   
