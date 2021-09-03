@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   https://github.com/HarkjinDev/Security/tree/main/ModSecurity
   
 - Ransomeware Analysis (랜섬웨어 분석 및 차단 연구)   
-  UTM / ClamAV / Cuckoo Sandbox를 이용한 랜섬웨어(Wannacry) 분석 및 차단 연구
+  UTM / ClamAV / Cuckoo Sandbox를 이용한 랜섬웨어(Wannacry) 분석 및 차단 연구   
   https://github.com/HarkjinDev/Security/tree/main/Write-up/Ransomware
   
 - SIEM Implementation (통합관제시스템 구축)   
