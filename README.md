@@ -7,7 +7,7 @@
 - AWS(Gamelift, DynamoDB, API Gateway, EC2, LightSail)
 - Unreal Engine(C++, Blueprint)   
 
-[Skills Detail](../skills.md)
+[Skills Detail](https://github.com/HarkjinDev/HarkjinDev/blob/main/skills.md)
 
 ## Study Projects
 - Wargame Challenge   
