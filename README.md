@@ -29,23 +29,26 @@
   > https://github.com/HarkjinDev/Security/tree/main/Suricata
   
 - ModSecurity WAF Implementation (ModSecurity WAF 구축)   
-  ModSecurity WAF를 활용한 Web 공격 탐지 연구   
-  https://github.com/HarkjinDev/Security/tree/main/ModSecurity
+  > ModSecurity WAF를 활용한 Web 공격 탐지 연구   
+  > Relevant skills :   
+  > https://github.com/HarkjinDev/Security/tree/main/ModSecurity
   
 - Ransomeware Analysis (랜섬웨어 분석 및 차단 연구)   
-  UTM / ClamAV / Cuckoo Sandbox를 이용한 랜섬웨어(Wannacry) 분석 및 차단 연구   
-  https://github.com/HarkjinDev/Security/tree/main/Write-up/Ransomware
+  > UTM / ClamAV / Cuckoo Sandbox를 이용한 랜섬웨어(Wannacry) 분석 및 차단 연구   
+  > Relevant skills :   
+  > https://github.com/HarkjinDev/Security/tree/main/Write-up/Ransomware
   
 - SIEM Implementation (통합관제시스템 구축)     
-  Security Onion v2 / ELK / Splunk를 사용한 보안이벤트 분석 및 시각화 연구   
-  https://github.com/HarkjinDev/Security/tree/main/Write-up/SIEM
+  > Security Onion v2 / ELK / Splunk를 사용한 보안이벤트 분석 및 시각화 연구   
+  > Relevant skills :   
+  > https://github.com/HarkjinDev/Security/tree/main/Write-up/SIEM
 
 ## Personal Projects
-- Mobile Game(Fishing Spot)  
-  설명 : 상용화를 목표로 3d 모바일 게임(FishingSpot) 2인 개발   
-  담당 : 마이크로 서비스 기반 API 서버(Flask), 언리얼 클라이언트 서브 메뉴 인터페이스 개발, AWS DynamoDB 구축 및 관리, Google Play 관리   
-  AWS Serverless rest API : https://github.com/HarkjinDev/Security/tree/main/AWS_Serverless_RESTAPI   
-  Game URL : 
+- FishingSpot 
+  > 설명 : 상용화를 목표로 3d 모바일 게임 2인 개발   
+  > 담당 : 마이크로 서비스 기반 API 서버(Flask), 언리얼 클라이언트 서브 메뉴 인터페이스 개발, AWS DynamoDB 구축 및 관리, Google Play 관리   
+  > AWS Serverless rest API : https://github.com/HarkjinDev/Security/tree/main/AWS_Serverless_RESTAPI   
+  > Game URL : 
 
 ## Certificate
 - Engineer Information Security(정보보안기사) - 2016.06.24
