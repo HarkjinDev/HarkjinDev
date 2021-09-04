@@ -18,7 +18,7 @@
   
 - Vulnerability Analysis (주요통신기반시설 기술적 취약점 분석/평가 스크립트 제작)   
   > CentOS7의 주요통신기반시설 기술적 취약점 분석 및 평가 Bash Script 제작   
-  > Relevant skills : Server and System Management, Vulnerability Analysis, Bash script
+  > Relevant skills : Server/System Management, Vulnerability Analysis, Bash script
   > https://github.com/HarkjinDev/Security/tree/main/VulnerabilityAnalysis
   
 - RDP Vulnerability Analysis (RDP 취약점 분석 연구)   
