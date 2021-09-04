@@ -1,17 +1,20 @@
-## Skills
+## Skills 
+
 - Infra (IPS, IDS, VPN, Firewall, NAC, WAF, NMS, Cisco Router/Switch)
 - Penetration Test(MetaSploit)
 - Network Traffic Security(ELK, Splunk)
 - Programming(Python, Bash, Powershell, C++)
 - AWS(Gamelift, DynamoDB, API Gateway, EC2, LightSail)
-- Unreal Engine(C++, Blueprint)
+- Unreal Engine(C++, Blueprint)   
+
+[More Detail](../skills.md)
 
 ## Study Projects
 - Wargame Challenge   
-  FTZ(Hackme) : System Hacking, Reverse   
-  https://github.com/HarkjinDev/Security/tree/main/Reverse/HackMe   
-  LOB(The lord of BOF) :    
-  https://github.com/HarkjinDev/Security/tree/main/Reverse/LOB
+  > FTZ(Hackme) : System Hacking, Reverse   
+  > https://github.com/HarkjinDev/Security/tree/main/Reverse/HackMe   
+  > LOB(The lord of BOF) :    
+  > https://github.com/HarkjinDev/Security/tree/main/Reverse/LOB
   
 - Vulnerability Analysis (주요통신기반시설 기술적 취약점 분석/평가 스크립트 제작)   
   > CentOS7의 주요통신기반시설 기술적 취약점 분석 및 평가 Bash Script 제작   
