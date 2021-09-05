@@ -2,7 +2,7 @@
 
 - Infra (IPS, IDS, VPN, Firewall, NAC, WAF, NMS, Cisco Router/Switch)
 - Penetration Test(MetaSploit)
-- Network Traffic Security(ELK, Splunk)
+- Network Traffic Security(ELK, Splunk, Wireshark, Snort)
 - Programming(Python, Bash, Powershell, C++)
 - AWS(Gamelift, DynamoDB, API Gateway, EC2, LightSail)
 - Unreal Engine(C++, Blueprint)   
