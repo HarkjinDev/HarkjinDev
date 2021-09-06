@@ -2,7 +2,7 @@
 
 - IT Infrastructure Implementation/Management (Windows/Linux Server, IPS, IDS, VPN, Firewall, WAF, Cisco Router/Switch)
 - Penetration Test(MetaSploit)
-- Network Traffic Security Ananlysis(Wireshark, Snort, ELK, Splunk)
+- Network Security Traffic Analysis(Wireshark, Snort, ELK, Splunk)
 - Programming(Python, Bash, Powershell, C++)
 - AWS(Gamelift, DynamoDB, API Gateway, EC2, LightSail)
 - Unreal Engine(C++, Blueprint)
