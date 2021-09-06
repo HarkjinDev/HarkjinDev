@@ -1,6 +1,6 @@
 ## Skills 
 
-- Infra Server/Network (Windows/Linux Server, IPS, IDS, VPN, Firewall, WAF, NMS, Cisco Router/Switch)
+- IT Infrastructure Implementation/Management (Windows/Linux Server, IPS, IDS, VPN, Firewall, WAF, NMS, Cisco Router/Switch)
 - Penetration Test(MetaSploit)
 - Network Traffic Security Ananlysis(Wireshark, Snort, ELK, Splunk)
 - Programming(Python, Bash, Powershell, C++)
