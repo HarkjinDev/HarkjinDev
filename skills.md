@@ -1,6 +1,9 @@
 # Skills
 
 ## IT Infrastructure Implementation/Management
+- Implementation
+- Testing
+- Troubleshooting
 
 ## Penetration Test
 
