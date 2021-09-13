@@ -31,7 +31,7 @@
   > https://github.com/HarkjinDev/Security/tree/main/ModSecurity
 
 - Suricata IDS/IPS Implementation (Suricata IDS/IPS 구축)   
-  > Suricata NIDS를 활용한 DOS 및 Web 공격 Snort 탐지 연구   
+  > Suricata IDS/IPS를 활용한 DOS 및 Web 공격 Snort 탐지 연구   
   > Relevant Skills : IDS, IPS, Snort, Dos/Web Attacking   
   > https://github.com/HarkjinDev/Security/tree/main/Suricata
 
