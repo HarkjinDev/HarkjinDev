@@ -10,11 +10,11 @@
 [Skills Detail](https://github.com/HarkjinDev/HarkjinDev/blob/main/skills.md)
 
 ## Career
-- Security Control/Consulting, KPFIS
-  Management of SOC and Penetration Test to related to Ministry of Strategy and Finance
+- Security Control/Consulting, KPFIS   
+  Management of SOC and Penetration Test to related to Ministry of Strategy and Finance   
   2022-05 ~ Present
-- Assist Security Inspection, NH Bank
-  Support internal/external inspection and guidance related to information security certification
+- Assist Security Inspection, NH Bank   
+  Support internal/external inspection and guidance related to information security certification   
   2021-10 ~ 2022-05(0.7yrs)
 - Electricity Maintenance, POSCO   
   Organize and operate electricity and equipment systems, preventive inspections, periodic inspections, planned preventive maintenance, troubleshooting, and facility improvement.   
