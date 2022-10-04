@@ -10,7 +10,8 @@
 [Skills Detail](https://github.com/HarkjinDev/HarkjinDev/blob/main/skills.md)
 
 ## Career
-- Security control and consulting, KPFIS
+- Security Control/Consulting, KPFIS
+  Management of SOC and Penetration Test to related to Ministry of Strategy and Finance
   2022-05 ~ Present
 - Assist Security Inspection, NH Bank
   Support internal/external inspection and guidance related to information security certification
