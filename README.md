@@ -1,13 +1,23 @@
 ## Skills 
 
-- IT Infrastructure Implementation/Management (Windows/Linux Server, IPS, IDS, VPN, Firewall, WAF, Cisco Router/Switch)
-- Penetration Test(MetaSploit)
-- Network Security Traffic Analysis(Wireshark, Snort, ELK, Splunk, Graylog)
+- IT Infrastructure Implementation/Management (Windows/Linux Server, IPS, IDS, VPN, Firewall, WAF, NAC, Cisco Router/Switch)
+- Penetration Test(MetaSploit, SolidStep, Application, DDoS, Web, Network)
+- Network Security Traffic Analysis(Wireshark, Snort, ELK, Splunk, Graylog, SOAR, TMS)
 - Programming(Python, Bash, Powershell, C++)
 - AWS(Gamelift, DynamoDB, API Gateway, EC2, LightSail)
 - Unreal Engine(C++, Blueprint)
 
 [Skills Detail](https://github.com/HarkjinDev/HarkjinDev/blob/main/skills.md)
+
+## Career
+- Security control and consulting, KPFIS
+  2022-05 ~ Present
+- Assist Security Inspection, NH Bank
+  Support internal/external inspection and guidance related to information security certification
+  2021-10 ~ 2022-05(0.7yrs)
+- Electricity Maintenance, POSCO   
+  Organize and operate electricity and equipment systems, preventive inspections, periodic inspections, planned preventive maintenance, troubleshooting, and facility improvement.   
+  2013-07 ~ 2017-01(3.7yrs)
 
 ## Study Projects
 - SIEM Implementation (통합관제시스템 구축)     
@@ -51,27 +61,23 @@
   > 설명 : 상용화를 목표로 3d 모바일 인디게임 2인 개발   
   > 담당 : 마이크로 서비스 기반 API 서버(Flask), 언리얼 클라이언트 서브 메뉴 인터페이스 개발, AWS DynamoDB 구축 및 관리, Google Play 관리   
   > AWS Serverless rest API : https://github.com/HarkjinDev/Security/tree/main/AWS_Serverless_RESTAPI   
-  > Game URL : 
+  > Game URL : https://play.google.com/store/apps/details?id=com.OPCStudio.FishingSpot
 
 ## Certificate
-- Engineer Information Security(정보보안기사) - 2016.06.24
-- Industrial Engineer Information Processing(정보처리산업기사) - 2012.09.25
-- CCNP - 2008.03.08~2011.03.08(expired, 만료)
+- Engineer Information Processing(정보처리기사) - 2022-06-17
+- SQLD(SQL 개발자) - 2022-04-08
+- Engineer Information Security(정보보안기사) - 2016-06-24
+- CCNP - 2008-03-08(expired, 만료)
 
 ## Education
-- Information Security Professional Course (21.03.09~21.09.07 / 6month)   
+- Information Security Professional Course (21-03-09~21-09-07 / 6mths)   
   모의해킹 침해대응 정보보안 전문가 과정
-- BCIT(British Columbia Institute of Technology,Canada) (Aircraft Maintenance) - 2020-2020(0.5 year)   
+- BCIT(British Columbia Institute of Technology,Canada) (Aircraft Maintenance) - 2020~2020(0.5yrs)   
   BCIT 항공정비학과 2학기 중퇴
-- Sejong University (Aerospace Engineering) - 2009-2010(1year)   
+- Sejong University (Aerospace Engineering) - 2009~2010(1yr)   
   세종대학교 우주항공공학부 1년 중퇴
-- Graudated Pohang Jecheol Technical High School (Computer Network) - 2006~2009   
+- Graudated Pohang Jecheol Technical High School (Computer Network) - 2006~2009(3yrs)  
   포항제철공업고등학교 컴퓨터네트워크과 졸업 
-
-## Career
-- Electricity Maintenance, POSCO   
-  Organize and operate electricity and equipment systems, preventive inspections, periodic inspections, planned preventive maintenance, troubleshooting, and facility improvement.   
-  2013.07.16 ~ 2017.01.30
 
 ## Award-Winning Carrer
 - 2008 National Skill Competition (information and communication) - Bronze prize   
