@@ -65,6 +65,7 @@
   > Game URL : https://play.google.com/store/apps/details?id=com.OPCStudio.FishingSpot
 
 ## Certificate
+- CCPG(개인정보관리사) - 2022-12-21
 - Engineer Information Processing(정보처리기사) - 2022-06-17
 - SQLD(SQL 개발자) - 2022-04-08
 - Engineer Information Security(정보보안기사) - 2016-06-24
