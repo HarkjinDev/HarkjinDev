@@ -7,8 +7,6 @@
 - AWS(Gamelift, DynamoDB, API Gateway, EC2, LightSail)
 - Unreal Engine(C++, Blueprint)
 
-[Skills Detail](https://github.com/HarkjinDev/HarkjinDev/blob/main/skills.md)
-
 ## Career
 - Security Control/Consulting, KPFIS   
   Management of SOC and Penetration Test to related to Ministry of Strategy and Finance   
